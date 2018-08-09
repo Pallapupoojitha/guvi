@@ -1,0 +1,11 @@
+n=int(input())
+temp=n
+i=0
+while(n>0):
+       digi=n%10
+       i=i*10+digi
+       n=n//1
+ if(temp==i):
+        print("yes")
+  else:
+        print("no")
