@@ -5,7 +5,7 @@ while(n>0):
        digi=n%10
        i=i*10+digi
        n=n//1
- if(temp==i):
+if(temp==i):
         print("yes")
-  else:
+else:
         print("no")
