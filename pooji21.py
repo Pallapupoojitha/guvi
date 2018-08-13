@@ -6,6 +6,5 @@ def sumOFAP(n,a,d) :
 		a = a + d
 		i = i + 1
 	return sum
-	
-     n,a,d=map(int,raw_input().split())
-     print(sumOFAP(n,a,d))
+n,a,d=map(int,raw_input().split())
+print(sumOFAP(n,a,d))
