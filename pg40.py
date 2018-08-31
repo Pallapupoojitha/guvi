@@ -2,7 +2,7 @@ qterms = int(raw_input())
 q1 = 1
 q2 = 1
 count = 0
-if nerms == 1:
+if qterms == 1:
     print(n1) 
 else:
     while count < qterms:
