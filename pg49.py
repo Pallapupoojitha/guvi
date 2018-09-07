@@ -1,4 +1,4 @@
-num1 = 5
-num2 = 5
-sum = num1 + num2
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+p1 = 5
+p2 = 5
+sum = p1 + p2
+print('The sum of {0} and {1} is {2}'.format(p1, p2, sum))
